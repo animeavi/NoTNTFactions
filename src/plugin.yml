@@ -1,0 +1,5 @@
+name: NoTNTFactions
+author: Zero
+version: 1.0.0
+main: io.github.animeavi.notntfactions.Main
+depend: [Factions]
